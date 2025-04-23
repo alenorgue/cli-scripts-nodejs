@@ -1,0 +1,37 @@
+[
+  {
+    "fecha": "2025-04-23T18:52:48.101Z",
+    "dni": "10000000Z",
+    "resultado": "Debe pagar 6329€",
+    "historial": [
+      {}
+    ],
+    "fechaUltimaConsulta": "2025-04-23T18:56:46.802Z",
+    "resultadoActual": "Debe pagar 5329€"
+  },
+  {
+    "fecha": "2025-04-23T18:53:38.665Z",
+    "dni": "10000000Z",
+    "resultado": "Debe pagar 6329€"
+  },
+  {
+    "fecha": "2025-04-23T18:53:38.666Z",
+    "dni": "10000001S",
+    "resultado": "Debe pagar 1175€",
+    "historial": [
+      {}
+    ],
+    "fechaUltimaConsulta": "2025-04-23T18:56:46.808Z",
+    "resultadoActual": "Debe pagar 1172€"
+  },
+  {
+    "fecha": "2025-04-23T18:53:38.666Z",
+    "dni": "10000086P",
+    "resultado": "Debe pagar 285€",
+    "historial": [
+      {}
+    ],
+    "fechaUltimaConsulta": "2025-04-23T18:56:46.808Z",
+    "resultadoActual": "Debe pagar 285€"
+  }
+]
