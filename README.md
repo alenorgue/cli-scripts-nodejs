@@ -7,7 +7,7 @@ Usa sus diferentes métodos para obtener la siguiente información sobre tu sist
 
 - Nombre del equipo
 - Edición/Versión del sistema operativo
-- Memoria ram total en **GB**
+- Memoria ram total en **GB
 
 ![](https://oscarm.tinytake.com/media/16472f3?filename=1718261870512_TinyTake13-06-2024-08-57-31_638538586701702054.png&sub_type=thumbnail_preview&type=attachment&width=731&height=800)
 
@@ -49,6 +49,12 @@ Usa Chat GPT para generar un script que
 - Reciba un DNI
 - Busque el DNI en el fichero dnis_con_deuda.txt
 - Si existe el DNI debe devolver un mensaje indicando que la persona que posee dicho DNI tendrá que pagar en la declaración y qué cantidad
+
+```
+node 4-check-dni 10000086P # Debería mostrar por consola algo así como "El contribuyente 10000086P le toca pagar 285€"
+node 4-check-dni 27681570N # Debería mostrar por consola algo así como "El contribuyente 27681570N no le toca pagar"
+
+```
 
 Intenta darle más valor a tu script con funcionalidades interesantes. ¿Que debería pasar si el dni no es válido?
 
